@@ -1,0 +1,12 @@
+Amy Klobuchar: 18
+Elizabeth Warren: 27
+Kamala Harris: 89
+Andrew Yang: 1
+Pete Buttigieg: 39
+Tulsi Gabbard: 12
+Cory Booker: 15
+Joe Biden: 876
+Beto O'Rourke: 6
+Kirsten Gillibrand: 13
+Bernie Sanders: 268
+Julian Castro: 6
